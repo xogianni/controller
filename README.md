@@ -1,4 +1,4 @@
-video game controller using an electroencephalogram
+video game controller using an [electroencephalogram](https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875)
 
 [Original Project](https://www.instructables.com/DIY-EEG-and-ECG-Circuit/)
 
